@@ -1,9 +1,20 @@
 Introduction
-The Internet is all about connecting machines together. One of the most exciting
-aspects of Python is that it incorporates an easy-to-use, cross-platform model for
-network communications that makes it possible to learn network programming
-without years of study. This opens up a whole new class of applications to
-programmers
+    The Internet is all about connecting machines together. One of the most exciting
+    aspects of Python is that it incorporates an easy-to-use, cross-platform model for
+    network communications that makes it possible to learn network programming
+    without years of study. This opens up a whole new class of applications to
+    programmers.
 
+What is Socket ??
+    Sockets are the endpoints of a bidirectional communications channel. Sockets may communicate within a process, between processes on  the same machine, or between processes on different continents.
+    Sockets may be implemented over a number of different channel types: Unix domain sockets, TCP, UDP, and so on. The socket library provides specific classes for handling the common transports as well as a generic interface for handling the rest.
+
+Socket's mostly used terms.
+  Domain
+  Type
+  Protocol
+  Hostname
+  port
+  
 
 
